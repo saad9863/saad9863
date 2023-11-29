@@ -10,7 +10,7 @@ A formerr Intern at Avanceon Middle East and South Asia, gained hands-on experie
 
 📚 In perpetual pursuit of knowledge, I've earned some certificates in Google Cybersecurity, Python for Data Science and more.
 
-💻 Currently Learning: Delving into the MERN stack – MongoDB, Express.js, React, and Node.js. I am excited to embrace the world of full-stack development!
+💻 Currently Learning:  MongoDB, Express.js, React, and Node.js. I am excited to embrace the world of full-stack development!
 
 🌟 Beyond coding, I served as an event manager at ACM Student GIKI Chapter, organizing and overseeing impactful events looking for more.
 
