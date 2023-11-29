@@ -4,7 +4,7 @@
 
 🚀 Passionate about technology, graduated from GIKI in June 2023, with a Bachelor of Science in Computer Engineering.
 
-A formerr Intern at Avanceon Middle East and South Asia, gained hands-on experience in the realm of process automation.
+💼 A former Intern at Avanceon Middle East and South Asia, gained hands-on experience in the realm of process automation.
 
 🌐 Tech Stack: Python, C/C++, SQL, Arduino, PLC, SCADA, HTML, CSS, JavaScript, Firebase.
 
