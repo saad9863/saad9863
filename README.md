@@ -2,7 +2,7 @@
 
 👋 Hello, coding enthusiasts! I'm Mohammed Saad Khan
 
-🚀 Passionate about technology, d graduated from GIKI in June 2023, with a Bachelor of Science in Computer Engineering.
+🚀 Passionate about technology, graduated from GIKI in June 2023, with a Bachelor of Science in Computer Engineering.
 
 A formerr Intern at Avanceon Middle East and South Asia, gained hands-on experience in the realm of process automation.
 
