@@ -14,5 +14,5 @@
 
 🌟 Beyond coding, I served as an event manager at ACM Student GIKI Chapter, organizing and overseeing impactful events looking for more.
 
-🔗 Let's connect and collaborate on LinkedIn (https://www.linkedin.com/in/khanmohammedsaad/). Explore my coding journey on GitHub. Happy coding! 🖥️✨
+🔗 Let's connect and collaborate on LinkedIn (https://www.linkedin.com/in/khanmohammedsaad/) and you may contact me through my email (khanmohammedsaad@hotmail.com). Explore my coding journey on GitHub. Happy coding! 🖥️✨
 
