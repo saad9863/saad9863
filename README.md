@@ -8,6 +8,8 @@
 
 🛠️ **Work Experience:**
 - **Vigor Designs (July 1, 2023 – Dec 31, 2023):** Remote Software Development and IT Support Intern - Worked on web development projects using HTML, CSS, and JavaScript (React JS), while utilizing VMware and Firebase for remote IT support and cloud storage.
+-  **US Mobile (June 26, 2024 – Present):** Customer support and Data Analysis.
+
 
 📚 In perpetual pursuit of knowledge, I've earned certificates in Google Cybersecurity, Python for Data Science, and more.
 
