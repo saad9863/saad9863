@@ -1,15 +1,10 @@
 # 👋 Hello, coding enthusiasts! I'm Mohammed Saad Khan
 
-🚀 Passionate about technology, I graduated from GIKI in June 2023 with a Bachelor of Science in Computer Engineering.
+🚀 Passionate about technology, I graduated from GIKI in June 2023 with a Bachelor of Science in Computer Engineering and currently pursuing a Masters degree in Information Technology from Murdoch University
 
 💼 Former Intern at Avanceon Middle East and South Asia, gaining hands-on experience in the realm of process automation.
 
 🌐 **Tech Stack:** Python, C/C++, SQL, Arduino, PLC, SCADA, HTML, CSS, JavaScript, Firebase.
-
-🛠️ **Work Experience:**
-- **Vigor Designs (July 1, 2023 – Dec 31, 2023):** Remote Software Development and IT Support Intern - Worked on web development projects using HTML, CSS, and JavaScript (React JS), while utilizing VMware and Firebase for remote IT support and cloud storage.
--  **US Mobile (June 26, 2024 – Present):** Customer support and Data Analysis.
-
 
 📚 In perpetual pursuit of knowledge, I've earned certificates in Google Cybersecurity, Python for Data Science, and more.
 
