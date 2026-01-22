@@ -8,8 +8,6 @@
 
 📚 In perpetual pursuit of knowledge, I've earned certificates in Google Cybersecurity, Python for Data Science, and more.
 
-💻 **Currently Learning:** MongoDB, Express.js, React, and Node.js. Excited to embrace the world of full-stack development!
-
 🌟 Beyond coding, I served as an event manager at ACM Student GIKI Chapter, organizing and overseeing impactful events, and I'm looking for more opportunities.
 
 🔗 Let's connect and collaborate on [LinkedIn](https://www.linkedin.com/in/khanmohammedsaad/), and you may contact me through my email (khanmohammedsaad@hotmail.com). Explore my coding journey on [GitHub](https://github.com/saad9863). Happy coding!
