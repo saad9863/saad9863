@@ -4,7 +4,7 @@
 
 💼 Former Intern at Avanceon Middle East and South Asia, gaining hands-on experience in the realm of process automation.
 
-🌐 **Tech Stack:** Python, C/C++, SQL, Arduino, PLC, SCADA, HTML, CSS, JavaScript, Firebase.
+🌐 **Tech Stack:** Python, C/C++, SQL, Arduino, PLC, SCADA, Tableau
 
 📚 In perpetual pursuit of knowledge, I've earned certificates in Google Cybersecurity, Python for Data Science, and more.
 
